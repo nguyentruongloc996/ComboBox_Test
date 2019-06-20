@@ -1,0 +1,10 @@
+C:\Users\TruongLoc\source\repos\TestWinApp\TestWinApp\bin\x86\Debug\TestWinApp.exe.config
+C:\Users\TruongLoc\source\repos\TestWinApp\TestWinApp\bin\x86\Debug\TestWinApp.exe
+C:\Users\TruongLoc\source\repos\TestWinApp\TestWinApp\bin\x86\Debug\TestWinApp.pdb
+C:\Users\TruongLoc\source\repos\TestWinApp\TestWinApp\obj\x86\Debug\TestWinApp.csprojAssemblyReference.cache
+C:\Users\TruongLoc\source\repos\TestWinApp\TestWinApp\obj\x86\Debug\TestWinApp.Form1.resources
+C:\Users\TruongLoc\source\repos\TestWinApp\TestWinApp\obj\x86\Debug\TestWinApp.Properties.Resources.resources
+C:\Users\TruongLoc\source\repos\TestWinApp\TestWinApp\obj\x86\Debug\TestWinApp.csproj.GenerateResource.cache
+C:\Users\TruongLoc\source\repos\TestWinApp\TestWinApp\obj\x86\Debug\TestWinApp.csproj.CoreCompileInputs.cache
+C:\Users\TruongLoc\source\repos\TestWinApp\TestWinApp\obj\x86\Debug\TestWinApp.exe
+C:\Users\TruongLoc\source\repos\TestWinApp\TestWinApp\obj\x86\Debug\TestWinApp.pdb
